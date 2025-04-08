@@ -6,6 +6,9 @@ O "Pegue o Joca" é um jogo simples e divertido desenvolvido como parte de um pr
 
 Este projeto foi desenvolvido com foco no aprendizado prático de tecnologias web, combinando HTML, CSS e JavaScript para criar uma aplicação funcional e envolvente. Além de ser uma ferramenta de entretenimento, o jogo também serve como um exemplo didático para quem deseja aprender os fundamentos do desenvolvimento web.
 
+## Demo Online
+[Acesse aqui o jogo funcional](https://brucsa.github.io/pegue-o-joca/)
+
 ## Funcionalidades
 
 * **Personagem Dinâmico**: O "Joca" aparece em posições aleatórias na tela.
