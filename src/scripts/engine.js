@@ -30,12 +30,13 @@ function countDown() {
     state.values.curretTime--;
     state.view.timeLeft.textContent = state.values.curretTime;
     /* atualizando tempo */
-}
 
-    if (state.values.curretTime < 0) {
+
+    if (state.values.curretTime <= 0) {
         clearInterval(state.actions.countDownTimerId);
         clearInterval(state.actions.timerId);
         alert("Gamer Over! O seu resultado foi: " + state.values.result);
+    }
 }
 
 function playSound(audioName) {
